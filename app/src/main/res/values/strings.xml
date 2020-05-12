@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Kotlin Project</string>
+    <string name="welcome_to_my_kotlin_app">Welcome to my Kotlin App!</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="sign_in">Sign In</string>
 </resources>
